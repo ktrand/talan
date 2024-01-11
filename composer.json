@@ -1,0 +1,9 @@
+{
+    "name": "khurshed/talan",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
